@@ -1,4 +1,4 @@
-# posts-template-finished
+# posts-finished-redux-thunk
 Project for learning Redux and Redux Thunk (Finished)
 
 1. Clone project
